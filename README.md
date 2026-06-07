@@ -1,3 +1,4 @@
+
 # Gaming Habits & Performance Analysis 🎮📊
 
 An end-to-end Data Cleaning and Exploratory Data Analysis (EDA) project using Python.
@@ -13,3 +14,6 @@ This project analyzes how daily gaming hours impact an individual's sleep, stres
 ## Tech Stack Used
 * Python (Pandas, Matplotlib, Seaborn)
 * Microsoft Excel
+
+## Output Visualization
+![Gaming vs Sleep](gaming_vs_sleep.png)
